@@ -61,15 +61,6 @@ When you run the script:
 
 4. After login, it navigates to the Attendance page and selects your semester details.
 
-### Project Structure
-
-Attendance_Check/
-│
-├── .env                     # Stores sensitive data like passwords
-├── web_scrapping.py         # Main Selenium script
-├── README.md                # Project documentation
-└── .venv/                   # Virtual environment (not uploaded to GitHub)
-
 ## Disclaimer 
 
 This project automates the process of logging into the [UKTECH University Student Portal](https://online.uktech.ac.in/ums/Student/Account/Login) and viewing attendance reports using **Python** and **Selenium**.
